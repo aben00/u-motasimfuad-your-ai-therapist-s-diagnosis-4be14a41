@@ -8,7 +8,7 @@ The one-line diagnosis an AI therapist gives its human — deadpan, clinical, an
 
 > Diagnosis: chronic over-apologising — you said sorry to me, a chatbot, seven times today, and none to the friend you ghosted.
 
-Entry: 128 characters, one line.
+Entry: 125 characters, one line.
 
 ## Run it
 
