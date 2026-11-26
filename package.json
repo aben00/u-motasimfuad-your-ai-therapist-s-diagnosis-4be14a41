@@ -1,0 +1,1 @@
+{"description":"The one-line diagnosis an AI therapist gives its human, at most 200 characters.","license":"MIT","main":"main.ts","name":"u-motasimfuad-your-ai-therapist-s-diagnosis-4be14a41","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
